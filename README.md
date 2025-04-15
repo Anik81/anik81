@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Rahman Anik</h1>
-<h3 align="center">A passionate Machine Learning Engineer and Research Assistant from Bangladesh</h3>
+<h3 align="center">A passionate Machine Learning Engineer and AI Researcher from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik81&label=Profile%20views&color=0e75b6&style=flat" alt="anik81" /> </p>
 
